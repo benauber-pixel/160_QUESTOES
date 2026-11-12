@@ -183,10 +183,6 @@ fun algoritmo10 () {
     println("7 - Levar o leão e a grama")
 }
 
-
-
-
-
 fun algoritmo11() {
     println("--{ALGORITMO 11}--")
     println("Aprendendo Algoritmo!!!")
